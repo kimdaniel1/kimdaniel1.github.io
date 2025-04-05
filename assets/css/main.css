@@ -3165,7 +3165,7 @@
 		background-color: #666;
 		background-image: url("../../images/i3.jpg");
 		background-position: top left,						center center;
-		background-repeat: repeat,							no-repeat;
+		background-repeat: no-repeat,							no-repeat;
 		background-size: auto,							cover;
 		color: #fff;
 		padding: 12em 0 20em 0;
